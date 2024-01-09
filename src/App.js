@@ -12,6 +12,7 @@ import { faPersonDress,faBasketShopping, faSearch} from '@fortawesome/free-solid
       <div>
        <div className='nav'>
         <p><span>A</span>KIRA</p>
+         {/* this is heading */}
           <button>Home</button>
           <button>Shop</button>
           <button>Blog</button>
