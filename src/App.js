@@ -18,7 +18,7 @@ import { faPersonDress,faBasketShopping, faSearch} from '@fortawesome/free-solid
           <button>Blog</button>
           <button>Pages</button>
           <button>Elementor_live</button>
-          {/* <button>Buy</button> */}
+          <button>Buy</button>
         <div className='icon'>
         <FontAwesomeIcon icon={faSearch} className='icons'/>
         <FontAwesomeIcon icon={faBasketShopping} className='icons'/>
